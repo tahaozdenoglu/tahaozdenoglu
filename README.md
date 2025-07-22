@@ -46,6 +46,6 @@ In addition to daily operations, [Taha OZDENOGLU] contributes to the development
 
 ## 📬 Contact  
 📧 [yourmail@example.com]  
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐍 [GitHub](https://github.com/yourprofile)  
-📊 [Kaggle](https://www.kaggle.com/yourprofile)
+💼 [LinkedIn](https://www.linkedin.com/in/taha-ozdenoglu)  
+🐍 [GitHub](https://github.com/tahaozdenoglu)  
+📊 [Kaggle](https://www.kaggle.com/tahaozdenoglu)
